@@ -20,8 +20,7 @@
  - backup.sql : mysqldump 함수를 이용한 sql 방식 db백업본
  - backupsqli.sql : mysqli 함수를 이용한 sqli방식 db백업본
  
-db는 php 버전에 따라 backup.sql 또는 backupsqli.sql 이 소실 또는 1kb 미만의 파일이 될수 있습니다.
-이것은 백업하려는 서버에서 지원을 안하는 백업방식 이라는 의미입니다.
+db는 php 버전 또는 서버환경에 따라 backup.sql 또는 backupsqli.sql 이 소실 또는 1kb 미만의 파일이 될수 있습니다.
 
 **복원방법**
  1. restore폴더안에 있는 index파일을 열고 복원서버에 맞게 설정합니다.
