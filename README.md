@@ -29,6 +29,6 @@ db는 php 버전에 따라 backup.sql 또는 backupsqli.sql 이 소실 또는 1k
  4. 웹브라우저로 restore/index.php 를 실행합니다.
  
 **복원시 주의사항**
- - backup.sql,backupsqli.sql 중 정상적으로 압축된 db를 사용하세요.
+ - backup.sql,backupsqli.sql 중 정상적으로 압축된 db를 사용하세요.
 
 이해하기 어려우신 분은 동영상을 참고해 주세요.
