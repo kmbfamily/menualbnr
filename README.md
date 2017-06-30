@@ -16,9 +16,10 @@
  4. ftp로 백업이 완료된 ftp파일 및 db를 받아줍니다.(backup폴더 안에 생성되어 있습니다.)
 
 **생성된 파일 설명**
-backup.zip : ftp파일 백업본
-backup.sql : mysqldump 함수를 이용한 sql 방식 db백업본
-backupsqli.sql : mysqli 함수를 이용한 sqli방식 db백업본
+ - backup.zip : ftp파일 백업본
+ - backup.sql : mysqldump 함수를 이용한 sql 방식 db백업본
+ - backupsqli.sql : mysqli 함수를 이용한 sqli방식 db백업본
+ 
 db는 php 버전에 따라 backup.sql 또는 backupsqli.sql 이 소실 또는 1kb 미만의 파일이 될수 있습니다.
 이것은 백업하려는 서버에서 지원을 안하는 백업방식 이라는 의미입니다.
 
