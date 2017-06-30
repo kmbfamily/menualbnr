@@ -13,6 +13,7 @@
  2. backup폴더째 백업할 서버에 올려줍니다.
  3.  웹 브라우저로 backup/index.php파일을 실행합니다.
  4. ftp로 백업이 완료된 ftp파일 및 db를 받아줍니다.(backup폴더 안에 생성되어 있습니다.)
+
 **복원방법**
  1. restore폴더안에 있는 index파일을 열고 복원서버에 맞게 설정합니다.
  2. restore폴더 안에 복원할 내용이 담긴 ftp파일 및 db파일을 각각backup.zip 및 backup.sql로 파일이름을 변경후 넣어줍니다. 
