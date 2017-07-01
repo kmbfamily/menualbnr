@@ -33,3 +33,9 @@ db는 php 버전 서버환경에 따라 backup.sql 또는 backupsqli.sql 이 소
  - 복원할 ftp파일은 복원할 파일만 압축해서 복원 진행해주세요.
 
 **이해하기 어려우신 분은 동영상을 참고해 주세요.**
+
+## 개발자 ##
+ - kmbfamily,주영,xenoteam
+## 지원 ##
+ - 공식홈페이지 : http://www.kmbfamily.net & https://www.xenoteam.co.kr
+ - 자세한 설명 및 시연 영상 : https://youtu.be/0mYMuc54BqM
