@@ -32,10 +32,14 @@ db는 php 버전 서버환경에 따라 backup.sql 또는 backupsqli.sql 이 소
  - backup.sql,backupsqli.sql 중 정상적으로 압축된 db를 사용하세요.
  - 복원할 ftp파일은 복원할 파일만 압축해서 복원 진행해주세요.
 
-**이해하기 어려우신 분은 동영상을 참고해 주세요.**
+**이해하기 어려우신 분은 지원에 자세한 설명 및 영상을 참고해 주세요.**
 
 ## 개발자 ##
  - kmbfamily,주영,xenoteam
 ## 지원 ##
  - 공식홈페이지 : http://www.kmbfamily.net & https://www.xenoteam.co.kr
- - 자세한 설명 및 시연 영상 : https://youtu.be/0mYMuc54BqM
+ - 자세한 설명 및 시연 영상 : http://kmbfamily.net/software/496
+ - 문의 : webmaster@kmbfamily.net 또는 https://open.kakao.com/o/gYfBp3w
+ ## 라이선스 ##
+ Copyright by kmbfamily & 주영 & xenoteam 2014 All rights reserved http://www.kmbfamily.net
+이 프로그램은 자유 소프트웨어입니다. 자유 소프트웨어 재단이 발표 한 GNU 약소 일반 공중 사용 허가서 (GNU Lesser General Public License) 조건에 따라 재배포 및 수정할 수 있습니다. 이 소스코드는 유용 할 것이라는 희망으로 배포되었지만 어떠한 보증도하지 않습니다. 상품성 또는 특정 목적에의 적합성에 대한 묵시적인 보증조차하지 않습니다.
